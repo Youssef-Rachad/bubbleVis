@@ -1,8 +1,14 @@
 # bubbleVis
-visualising bubble sort in python 
+---
+## Visualising sorting algorithms in python
 
-Will continue for more sorting algos
+1. bubble sort
+1. insertion sort
 
-Dependancies used:
-- Matplotlib
+Working on : merge sort
+
+### Will continue for more sorting algos
+
+## Dependancies used:
+    - Matplotlib
 - PillowWriter (windows)
