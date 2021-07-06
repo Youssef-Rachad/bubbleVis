@@ -14,6 +14,6 @@
 - PillowWriter (windows)
 
 
-![BBSort](https://github.com/Youssef-Rachad/bubbleVis/blob/main/bbSort0.gif)
+![BBSort](https://github.com/Youssef-Rachad/bubbleVis/blob/main/bbsort0.gif)
 
 ![InsertionSort](https://github.com/Youssef-Rachad/bubbleVis/blob/main/insertion.gif)
